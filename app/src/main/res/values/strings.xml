@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mflix</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    Ads-->
+    <string name="nativ_ads">c4346727ff7d7ea9</string>
+    <string name="nativ_ads_new">	df9f92e785657145</string>
+    <string name="intrestial_ads">4ab6d41c1d4771fe</string>
+</resources>
